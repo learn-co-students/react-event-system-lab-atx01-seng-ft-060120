@@ -22,7 +22,7 @@ field to capture input. Here's how to complete the exercise:
 2. In that component, render an `input` with the right type.
 3. On that `input`, add an event handler that listens for the `keyUp` event.
 4. When that event fires, use `console.log` to print out the text `'Entering password...'`.
-
+a
 ## Eyes on the ball
 
 Let's say you're in the club with your buddy. The music's blaring, lights are
